@@ -1,0 +1,8 @@
+C:\Users\imkke\Desktop\lyg projektas\bin\Debug\lyg projektas.exe.config
+C:\Users\imkke\Desktop\lyg projektas\bin\Debug\lyg projektas.exe
+C:\Users\imkke\Desktop\lyg projektas\bin\Debug\lyg projektas.pdb
+C:\Users\imkke\Desktop\lyg projektas\obj\Debug\lyg projektas.csproj.AssemblyReference.cache
+C:\Users\imkke\Desktop\lyg projektas\obj\Debug\lyg projektas.csproj.CoreCompileInputs.cache
+C:\Users\imkke\Desktop\lyg projektas\obj\Debug\lyg projektas.exe
+C:\Users\imkke\Desktop\lyg projektas\obj\Debug\lyg projektas.pdb
+C:\Users\imkke\Desktop\lyg projektas\obj\Debug\lyg projektas.exe.config
