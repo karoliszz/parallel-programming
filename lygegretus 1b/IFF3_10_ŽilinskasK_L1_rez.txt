@@ -1,0 +1,2 @@
+Sum of years (int fields): 0
+Sum of grades (float fields): 0
