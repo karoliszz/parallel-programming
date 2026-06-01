@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\imkke\Desktop\lab3 lygeg>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.1\bin\nvcc.exe" -gencode=arch=compute_75,code=\"sm_75,compute_75\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.1\include"  -G   --keep-dir "lab3 lygeg\x64\Debug"  -maxrregcount=0    --machine 64 --compile -cudart hybrid  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fd\"lab3 lygeg\x64\Debug\vc143.pdb\"" -o "C:\Users\imkke\Desktop\lab3 lygeg\lab3 lygeg\x64\Debug\kernel.cu.obj" "C:\Users\imkke\Desktop\lab3 lygeg\kernel.cu" 
+  kernel.cu
+  tmpxft_00002830_00000000-7_kernel.cudafe1.cpp
+C:\Users\imkke\Desktop\lab3 lygeg\kernel.cu(145): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  lab3 lygeg.vcxproj -> C:\Users\imkke\Desktop\lab3 lygeg\x64\Debug\lab3 lygeg.exe
