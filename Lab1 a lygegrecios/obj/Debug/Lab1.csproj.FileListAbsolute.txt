@@ -1,0 +1,24 @@
+C:\Users\karzil3\Desktop\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\karzil3\Desktop\Lab1\bin\Debug\Lab1.exe
+C:\Users\karzil3\Desktop\Lab1\bin\Debug\Lab1.pdb
+C:\Users\karzil3\Desktop\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\karzil3\Desktop\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\karzil3\Desktop\Lab1\obj\Debug\Lab1.exe
+C:\Users\karzil3\Desktop\Lab1\obj\Debug\Lab1.pdb
+C:\Users\karzil3\Desktop\Lab1\obj\Debug\Lab1.exe.config
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\bin\Debug\Lab1.exe.config
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\bin\Debug\Lab1.exe
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\bin\Debug\Lab1.pdb
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.exe.config
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.exe
+C:\Users\imkke\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.pdb
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\bin\Debug\Lab1.exe.config
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\bin\Debug\Lab1.exe
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\bin\Debug\Lab1.pdb
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.exe.config
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.exe
+C:\Users\karzil3\Desktop\Lab1 a lygegrecios\obj\Debug\Lab1.pdb
